@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 7.0.6/20004
 // Filename: ???? ?? ???.ggsk
-// Generated 2023-11-11T17:46:25
+// Generated 2023-11-13T12:57:43
 
 function pano2vrSkin(player,base) {
 	player.addVariable('vis_mobilemenu', 2, false, { ignoreInState: 0  });
@@ -11653,7 +11653,7 @@ function pano2vrSkin(player,base) {
 		me._d_125.onclick=function (e) {
 			if (
 				(
-					((player._(me.ggUserdata.comment) == "\uc5f0\ub9bd\ud615D"))
+					((player._(me.ggUserdata.comment) != "\uc5f0\ub9bd\ud615D"))
 				)
 			) {
 				player.openUrl("https:\/\/web-townhoused-4fju66f2clmy8hj45.sel5.cloudtype.app\/","");
@@ -11752,7 +11752,7 @@ function pano2vrSkin(player,base) {
 		me._c_177m.onclick=function (e) {
 			if (
 				(
-					((player._(me.ggUserdata.comment) == "\uc5f0\ub9bd\ud615C"))
+					((player._(me.ggUserdata.comment) != "\uc5f0\ub9bd\ud615C"))
 				)
 			) {
 				player.openUrl("https:\/\/web-townhousec-4fju66f2clmy8hj45.sel5.cloudtype.app\/","");
@@ -11851,7 +11851,7 @@ function pano2vrSkin(player,base) {
 		me._b_135m.onclick=function (e) {
 			if (
 				(
-					((player._(me.ggUserdata.comment) == "\uc5f0\ub9bd\ud615B"))
+					((player._(me.ggUserdata.comment) != "\uc5f0\ub9bd\ud615B"))
 				)
 			) {
 				player.openUrl("https:\/\/web-townhouseb-4fju66f2clmy8hj45.sel5.cloudtype.app\/","");
@@ -11950,7 +11950,7 @@ function pano2vrSkin(player,base) {
 		me._a_141m.onclick=function (e) {
 			if (
 				(
-					((player._(me.ggUserdata.comment) == "\uc5f0\ub9bd\ud615A"))
+					((player._(me.ggUserdata.comment) != "\uc5f0\ub9bd\ud615A"))
 				)
 			) {
 				player.openUrl("https:\/\/web-townhousea-4fju66f2clmy8hj45.sel5.cloudtype.app\/","");
@@ -12049,7 +12049,7 @@ function pano2vrSkin(player,base) {
 		me.__135m.onclick=function (e) {
 			if (
 				(
-					((player._(me.ggUserdata.comment) == "\ub2e8\ub3c5\ud615"))
+					((player._(me.ggUserdata.comment) != "\ub2e8\ub3c5\ud615"))
 				)
 			) {
 				player.openUrl("https:\/\/web-townhouse1-4fju66f2clmy8hj45.sel5.cloudtype.app\/","");
@@ -12383,7 +12383,7 @@ function pano2vrSkin(player,base) {
 		hs+='height : 20px;';
 		hs+='left : 95%;';
 		hs+='position : absolute;';
-		hs+='top : 22.26%;';
+		hs+='top : 32.14%;';
 		hs+='visibility : inherit;';
 		hs+='width : 20px;';
 		hs+='pointer-events:none;';
@@ -12420,7 +12420,7 @@ function pano2vrSkin(player,base) {
 		el.appendChild(els);
 		el.ggSubElement = els;
 		el.ggId="\ubaa8\ubc14\uc77c \ud0c0\uc785\uba85 up";
-		el.ggDy=0;
+		el.ggDy=2;
 		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
 		el.ggVisible=false;
 		el.className="ggskin ggskin_image ";
@@ -12429,7 +12429,7 @@ function pano2vrSkin(player,base) {
 		hs+='height : 20px;';
 		hs+='position : absolute;';
 		hs+='right : 2.1%;';
-		hs+='top : calc(50% - ((20px + 0px) / 2) + 0px);';
+		hs+='top : calc(50% - ((20px + 0px) / 2) + 2px);';
 		hs+='visibility : hidden;';
 		hs+='width : 20px;';
 		hs+='pointer-events:auto;';
@@ -12707,7 +12707,7 @@ function pano2vrSkin(player,base) {
 		me._type5.onclick=function (e) {
 			if (
 				(
-					((player._(me.ggUserdata.comment) == "\uc5f0\ub9bd\ud615D"))
+					((player._(me.ggUserdata.comment) != "\uc5f0\ub9bd\ud615D"))
 				)
 			) {
 				player.openUrl("https:\/\/web-townhoused-4fju66f2clmy8hj45.sel5.cloudtype.app\/","");
@@ -12808,7 +12808,7 @@ function pano2vrSkin(player,base) {
 		me._type4.onclick=function (e) {
 			if (
 				(
-					((player._(me.ggUserdata.comment) == "\uc5f0\ub9bd\ud615C"))
+					((player._(me.ggUserdata.comment) != "\uc5f0\ub9bd\ud615C"))
 				)
 			) {
 				player.openUrl("https:\/\/web-townhousec-4fju66f2clmy8hj45.sel5.cloudtype.app\/","");
@@ -12909,7 +12909,7 @@ function pano2vrSkin(player,base) {
 		me._type3.onclick=function (e) {
 			if (
 				(
-					((player._(me.ggUserdata.comment) == "\uc5f0\ub9bd\ud615B"))
+					((player._(me.ggUserdata.comment) != "\uc5f0\ub9bd\ud615B"))
 				)
 			) {
 				player.openUrl("https:\/\/web-townhouseb-4fju66f2clmy8hj45.sel5.cloudtype.app\/","");
@@ -13010,7 +13010,7 @@ function pano2vrSkin(player,base) {
 		me._type20.onclick=function (e) {
 			if (
 				(
-					((player._(me.ggUserdata.comment) == "\uc5f0\ub9bd\ud615A"))
+					((player._(me.ggUserdata.comment) != "\uc5f0\ub9bd\ud615A"))
 				)
 			) {
 				player.openUrl("https:\/\/web-townhousea-4fju66f2clmy8hj45.sel5.cloudtype.app\/","");
@@ -13111,7 +13111,7 @@ function pano2vrSkin(player,base) {
 		me._type1.onclick=function (e) {
 			if (
 				(
-					((player._(me.ggUserdata.comment) == "\ub2e8\ub3c5\ud615"))
+					((player._(me.ggUserdata.comment) != "\ub2e8\ub3c5\ud615"))
 				)
 			) {
 				player.openUrl("https:\/\/web-townhouse1-4fju66f2clmy8hj45.sel5.cloudtype.app\/","");
